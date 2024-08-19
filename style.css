@@ -1,0 +1,43 @@
+img {
+    width: 1000px;
+height: 500px;
+border-radius: 16px;
+margin: 0 auto;
+display: block;
+}
+
+h1 { 
+    text-align: center;
+}
+
+.img img{
+    width: 300px;
+    height: 300px;
+    margin:inherit;
+}
+
+.imagem img {
+    width: 300px;
+    height: 300px;
+    margin: inherit;
+}
+
+.imgm img {
+ width: 300px;
+ height: 300px;
+ margin: inherit;
+
+}
+
+.imag img {
+ width: 300px;
+  height: 300px;
+  margin: inherit;
+}
+
+.comida img {
+width: 300px;
+height: 200px;
+margin: inherit;
+float: left;
+}
